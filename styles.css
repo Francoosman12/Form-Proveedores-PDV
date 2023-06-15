@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+
+
+.title {
+    color: #737473;
+}
+
+img {
+    height: 200px;
+    width: 60%;
+}
+
+.duracell {
+    background-color: #E57E16;
+    padding: 8px;
+    border-radius: 5px;
+}
